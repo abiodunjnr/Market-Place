@@ -1,4 +1,4 @@
-### Market Place Skincare Product Analysis - Power BI Project Overview
+### Market Place beauty Products Analysis - Power BI Project Overview
 
 #### **Executive Summary**
 This project presents an in-depth analysis of the sales and performance metrics for Market Place, a company specializing in skincare, haircare, and cosmetic products. By leveraging advanced data analytics and visualization techniques, this report provides actionable insights into product performance, defect rates, and operational efficiency. The analysis is powered by a well-structured data model and is designed to be highly interactive, offering a deep dive into the data for business optimization.
